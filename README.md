@@ -1,5 +1,4 @@
 # JMMS Sender
-
 I have created this tool for test MM7 interface of ericsson VASP API
 
 This tool is very usefull in telco company that use this kind of MMSC
