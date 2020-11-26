@@ -5,14 +5,7 @@
  */
 package it.baccan.jmms;
 
-// API Ericsson
-import com.ericsson.services.mms.sdk.vasp.api.*;
-
-// Calendar
-import com.margaglione.calendar.*;
-
 // Calendario
-import com.margaglione.calendar.*;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
@@ -24,6 +17,12 @@ import java.util.Date;
 import java.util.Properties;
 import javax.swing.JFileChooser;
 import javax.swing.JOptionPane;
+
+// API Ericsson
+import com.ericsson.services.mms.sdk.vasp.api.*;
+
+// Calendar
+import com.margaglione.calendar.*;
 
 /**
  *
