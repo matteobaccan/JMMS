@@ -1,0 +1,8 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+
+  <name>JCalendar</name>
+  <artifactId>calendar</artifactId>
+  <packaging>jar</packaging>
+
+</project>
