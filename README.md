@@ -1,5 +1,6 @@
 # JMMS Sender
 ![CodeQL](https://github.com/matteobaccan/JMMS/workflows/CodeQL/badge.svg)
+![Java CI with Maven](https://github.com/matteobaccan/JMMS/workflows/Java%20CI%20with%20Maven/badge.svg)
 
 I have created this tool for test MM7 interface of ericsson VASP API
 
